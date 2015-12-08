@@ -1,0 +1,15 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\151002_ListsChallenge2\151002_ListsChallenge2\bin\Debug\151002_ListsChallenge2.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\151002_ListsChallenge2\151002_ListsChallenge2\bin\Debug\151002_ListsChallenge2.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\151002_ListsChallenge2\151002_ListsChallenge2\bin\Debug\151002_ListsChallenge2.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\151002_ListsChallenge2\151002_ListsChallenge2\obj\Debug\151002_ListsChallenge2.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\151002_ListsChallenge2\151002_ListsChallenge2\obj\Debug\151002_ListsChallenge2.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\151002_ListsChallenge2\151002_ListsChallenge2\obj\Debug\151002_ListsChallenge2.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week 4 - Streaming Files, Data Structures I\151002_ListsChallenge1\151002_ListsChallenge2\bin\Debug\151002_ListsChallenge2.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week 4 - Streaming Files, Data Structures I\151002_ListsChallenge1\151002_ListsChallenge2\obj\Debug\151002_ListsChallenge2.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week 4 - Streaming Files, Data Structures I\151002_ListsChallenge1\151002_ListsChallenge2\obj\Debug\151002_ListsChallenge2.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week4 - Streaming Files, Data Structures I\151002_ListsChallenge1\151002_ListsChallenge2\bin\Debug\151002_ListsChallenge2.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week4 - Streaming Files, Data Structures I\151002_ListsChallenge1\151002_ListsChallenge2\obj\Debug\151002_ListsChallenge2.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week4 - Streaming Files, Data Structures I\151002_ListsChallenge1\151002_ListsChallenge2\obj\Debug\151002_ListsChallenge2.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week4 - Streaming Files, Data Structures I\151002_ListsChallenge1\151002_ListsChallenge2\bin\Debug\151002_ListsChallenge2.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week4 - Streaming Files, Data Structures I\151002_ListsChallenge1\151002_ListsChallenge2\bin\Debug\151002_ListsChallenge2.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week4 - Streaming Files, Data Structures I\151002_ListsChallenge1\151002_ListsChallenge2\obj\Debug\151002_ListsChallenge2.csprojResolveAssemblyReference.cache
